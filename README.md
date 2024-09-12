@@ -59,31 +59,66 @@
 
 <details>
 <summary> 🧑🏻‍💻 김민지</summary>
+
+- [2장 객체 생성과 파괴](https://kmj-projects.notion.site/465204a572404269b903bf898e51b693)
+  
 </details>
 
 <details>
 <summary> 🧑🏻‍💻 조연주</summary>
+
+- [이펙티브 자바 3/E판](https://yeonj.notion.site/3-E-04bb3e5a92244f1997b32a7c445cbcc2?pvs=4)
+    
 </details>
 <details>
 <summary> 🧑🏻‍💻 유승민</summary>
+
+- [이펙티브 자바 3/E판](https://winnminn99.notion.site/3-abe4df72453e49b19b00bf6b6df14f87?pvs=4)
+
 </details>
 <details>
 <summary> 🧑🏻‍💻 이예빈</summary>
+
+- [item 01~05 요약정리](https://actually-clavicle-30b.notion.site/1-dd6bc9052eeb495581235d292bcb177b?pvs=4)
+    
 </details>
 <details>
 <summary> 🧑🏻‍💻 유기훈</summary>
+
+- [item 01~05](https://antique-banon-928.notion.site/Effective-Java-1-5-09-12-591b2904b7d946e7888cbcd1d553d0d5)
+
 </details>
 <details>
 <summary> 🧑🏻‍💻 이시향</summary>
+
+- [이펙티브 자바 3/E판](https://delicate-individual-cb2.notion.site/9aed24ca2c454cd6910f2e4448bd7db0)
+    
 </details>
 <details>
 <summary> 🧑🏻‍💻 김진우</summary>
+
+- [item 1. 생성자 대신 정적 팩터리 메서드를 고려하라](https://hojinu.tistory.com/4)
+- [item 2. 생성자에 매개변수가 많다면 빌더를 고려하라](https://hojinu.tistory.com/6)
+- [item 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://hojinu.tistory.com/7)
+- [item 4. 인스턴스화를 막으려거든 private 생성자를 사용하라](https://hojinu.tistory.com/8)
+- [item 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://hojinu.tistory.com/9)
+
 </details>
 <details>
 <summary> 🧑🏻‍💻 이금주</summary>
+
+- [item 01. 생성자 대신 정적 팩터리 메서드를 고려하라.](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/item-01.)
+- [item 02. 생성자에 매개변수가 많다면 빌더를 고려하라.](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/item-02.)
+- [item 03. private 생성자나 열거 타입으로 싱글턴임을 보증하라.](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/item-03-private-.)
+- [item 04. 인스턴스화를 막으려거든 private 생성자를 사용하라.](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/item-04-private)
+- [item 05. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라.](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/item-05)
+
 </details>
 <details>
 <summary> 🧑🏻‍💻 서성환</summary>
+
+- [item 01~05 요약정리](https://thespeace.notion.site/2-46090b8bef5642ea87ab04fe0a099ec3)
+    
 </details>
 
 ## 🥮 진도표

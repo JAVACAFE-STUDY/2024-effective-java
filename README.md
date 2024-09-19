@@ -61,6 +61,7 @@
 <summary> 🧑🏻‍💻 김민지</summary>
 
 - [2장 객체 생성과 파괴](https://kmj-projects.notion.site/465204a572404269b903bf898e51b693)
+- [3장 모든 객체의 공통 메서드](https://kmj-projects.notion.site/3-1051240dc145809da118c3cdee876dbb)
   
 </details>
 
@@ -79,13 +80,15 @@
 <details>
 <summary> 🧑🏻‍💻 이예빈</summary>
 
-- [item 01~05 요약정리](https://actually-clavicle-30b.notion.site/1-dd6bc9052eeb495581235d292bcb177b?pvs=4)
+- [item 01~05](https://actually-clavicle-30b.notion.site/1-dd6bc9052eeb495581235d292bcb177b?pvs=4)
+- [item 06~10](https://actually-clavicle-30b.notion.site/2-105804ffcd608089a61be4d9f4c4a8f2)
     
 </details>
 <details>
 <summary> 🧑🏻‍💻 유기훈</summary>
 
 - [item 01~05](https://antique-banon-928.notion.site/Effective-Java-1-5-09-12-591b2904b7d946e7888cbcd1d553d0d5)
+- [item 06~10](https://antique-banon-928.notion.site/Effective-Java-6-10-9-19-a02bae4e741d4be59777ba58d03ebba6)
 
 </details>
 <details>
@@ -102,6 +105,11 @@
 - [item 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://hojinu.tistory.com/7)
 - [item 4. 인스턴스화를 막으려거든 private 생성자를 사용하라](https://hojinu.tistory.com/8)
 - [item 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://hojinu.tistory.com/9)
+- [item 6. 불필요한 객체 생성을 피해라](https://hojinu.tistory.com/10)
+- [item 7. 다 쓴 객체 참조를 해제하라](https://hojinu.tistory.com/11)
+- [item 8. finalizer 와 cleaner 사용을 피하라](https://hojinu.tistory.com/12)
+- [item 9. try-finally 보다는 try-with-resources 를 사용하라](https://hojinu.tistory.com/13)
+- [item 10. equals 는 일반 규약을 지켜 재정의하라](https://hojinu.tistory.com/14)
 
 </details>
 <details>
@@ -112,12 +120,19 @@
 - [item 03. private 생성자나 열거 타입으로 싱글턴임을 보증하라.](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/item-03-private-.)
 - [item 04. 인스턴스화를 막으려거든 private 생성자를 사용하라.](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/item-04-private)
 - [item 05. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라.](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/item-05)
+- [item 6. 불필요한 객체 생성을 피하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/2/item-06)
+- [item 7. 다 쓴 객체 참조를 해제하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/2/item-06)
+- [item 8. finalizer와 cleaner 사용을 피하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/2/item-08-finalizer-cleaner)
+- [item 9. try-finally보다는 try-with-resources를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/2/item-09-try-finally-tiy-with-resources)
+- [item 10. equals는 일반 규약을 지켜 재정의하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/3/item10-equals)
 
 </details>
 <details>
 <summary> 🧑🏻‍💻 서성환</summary>
 
-- [item 01~05 요약정리](https://thespeace.notion.site/2-46090b8bef5642ea87ab04fe0a099ec3)
+- [item 01~05](https://thespeace.notion.site/2-46090b8bef5642ea87ab04fe0a099ec3)
+- [item 06~09](https://thespeace.notion.site/2_2-1048580a9dad8046b8b5dd483263d07a)
+- [item 10](https://thespeace.notion.site/3-8a8db995e850449b9907ed8108f9e4e2)
     
 </details>
 
@@ -149,7 +164,7 @@
 |           | 김민지 | 조연주 | 유승민 | 이예빈 | 유기훈 | 이시향 | 김진우 | 이금주 | 서성환 |
 | --------- | ---- | ---- | ----- | ---- | ----  | ---- | ---- | ---- | ---- |
 | 1주차     |   ✅  |  ✅   |  ✅   |  ✅   |   ✅  |   ✅ |   🎟️  |  ✅  |   ✅   |
-| 2주차     |        |        |        |        |        |        |        |
+| 2주차     |    ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
 | 3주차     |        |        |        |        |        |        |        |
 | 4주차     |        |        |        |        |        |        |        |
 | 5주차     |        |        |        |        |        |        |        |

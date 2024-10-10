@@ -62,6 +62,7 @@
 
 - [2장 객체 생성과 파괴](https://kmj-projects.notion.site/465204a572404269b903bf898e51b693)
 - [3장 모든 객체의 공통 메서드](https://kmj-projects.notion.site/3-1051240dc145809da118c3cdee876dbb)
+- [4장 클래스와 인터페이스](https://kmj-projects.notion.site/4-1171240dc145806c9759f52e4828e27a)
   
 </details>
 
@@ -83,6 +84,7 @@
 - [item 01~05](https://actually-clavicle-30b.notion.site/1-dd6bc9052eeb495581235d292bcb177b?pvs=4)
 - [item 06~10](https://actually-clavicle-30b.notion.site/2-105804ffcd608089a61be4d9f4c4a8f2)
 - [item 11~14](https://actually-clavicle-30b.notion.site/3-10b804ffcd60806aab34ccdd785da9e6)
+- [item 15~19](https://actually-clavicle-30b.notion.site/4-11a804ffcd60800a9efbf7fb4629d4bd)
     
 </details>
 <details>
@@ -91,6 +93,7 @@
 - [item 01~05](https://antique-banon-928.notion.site/Effective-Java-1-5-09-12-591b2904b7d946e7888cbcd1d553d0d5)
 - [item 06~10](https://antique-banon-928.notion.site/Effective-Java-6-10-9-19-a02bae4e741d4be59777ba58d03ebba6)
 - [item 11~14](https://antique-banon-928.notion.site/Effective-Java-11-14-9-26-10882aee42598065a58ac577a0d4a032)
+- [item 15~19](https://antique-banon-928.notion.site/Effective-Java-15-19-10-10-10f82aee425980d8a765fb1116cce151?pvs=4)
 
 </details>
 <details>
@@ -116,6 +119,11 @@
 - [item 12. toString 을 항상 재정의하라](https://hojinu.tistory.com/16)
 - [item 13. clone 재정의는 주의해서 진행하라](https://hojinu.tistory.com/17)
 - [item 14. Comparable 을 구현할지 고려하라](https://hojinu.tistory.com/18)
+- [item 15. 클래스와 멤버의 접근 권한을 최소화하라](https://hojinu.tistory.com/19)
+- [item 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://hojinu.tistory.com/20)
+- [item 17. 변경 가능성을 최소화하라](https://hojinu.tistory.com/21)
+- [item 18. 상속보다는 컴포지션을 사용해라](https://hojinu.tistory.com/22)
+- [item 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라.](https://hojinu.tistory.com/23)
 
 
 </details>
@@ -127,15 +135,20 @@
 - [item 03. private 생성자나 열거 타입으로 싱글턴임을 보증하라.](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/item-03-private-.)
 - [item 04. 인스턴스화를 막으려거든 private 생성자를 사용하라.](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/item-04-private)
 - [item 05. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라.](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/item-05)
-- [item 6. 불필요한 객체 생성을 피하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/2/item-06)
-- [item 7. 다 쓴 객체 참조를 해제하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/2/item-06)
-- [item 8. finalizer와 cleaner 사용을 피하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/2/item-08-finalizer-cleaner)
-- [item 9. try-finally보다는 try-with-resources를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/2/item-09-try-finally-tiy-with-resources)
+- [item 06. 불필요한 객체 생성을 피하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/2/item-06)
+- [item 07. 다 쓴 객체 참조를 해제하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/2/item-06)
+- [item 08. finalizer와 cleaner 사용을 피하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/2/item-08-finalizer-cleaner)
+- [item 09. try-finally보다는 try-with-resources를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/2/item-09-try-finally-tiy-with-resources)
 - [item 10. equals는 일반 규약을 지켜 재정의하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/3/item10-equals)
 - [item 11. equals 를 재정의하려거든 hashCode 도 재정의하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/3/item-11-equals-hashcode)
 - [item 12. toString을 항상 재정의하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/3/item-12-tostring)
 - [item 13. clone 재정의는 주의해서 진행하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/3/item-13-clone)
 - [item 14. Comparable을 구현할지 고려하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/3/item-14-comparable)
+- [item 15. 클래스와 멤버의 접근 권한을 최소화하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-15)
+- [item 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-16-public-public)
+- [item 17. 변경 가능성을 최소화하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-17)
+- [item 18. 상속보다는 컴포지션을 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-18)
+- [item 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-19-.)
 
 </details>
 <details>
@@ -145,6 +158,7 @@
 - [item 06~09](https://thespeace.notion.site/2_2-1048580a9dad8046b8b5dd483263d07a)
 - [item 10](https://thespeace.notion.site/3-8a8db995e850449b9907ed8108f9e4e2)
 - [item 11~14](https://thespeace.notion.site/3-8a8db995e850449b9907ed8108f9e4e2)
+- [item 15~19](https://thespeace.notion.site/4-1068580a9dad80598e52f994202c862b#11b8580a9dad80eaac52dd884f1673c8)
     
 </details>
 
@@ -178,7 +192,7 @@
 | 1주차     |   ✅  |  ✅   |  ✅   |  ✅   |   ✅  |   ✅ |   🎟️  |  ✅  |   ✅   |
 | 2주차     |    ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
 | 3주차     |   ✅  |  🎟️   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
-| 4주차     |        |        |        |        |        |        |        |
+| 4주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   🎟️ |   ✅  |  ✅  |   🎟️   |
 | 5주차     |        |        |        |        |        |        |        |
 | 6주차     |        |        |        |        |        |        |        |
 | 7주차     |        |        |        |        |        |        |        |
@@ -190,4 +204,4 @@
 | 13주차    |        |        |        |        |        |        |        |
 | 14주차    |        |        |        |        |        |        |        |
 | 보증금 현황 |60,000|60,000|60,000|60,000|60,000|60,000|60,000|60,000|60,000|
-| 패스권     |  2개 |  1개  |  2개 |  2개   |  2개  |   2개  |  1개 |  2개  | 2개 |
+| 패스권     |  2개 |  1개  |  2개 |  2개   |  2개  |   1개  |  1개 |  2개  | 1개 |

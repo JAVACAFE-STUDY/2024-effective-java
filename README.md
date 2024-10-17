@@ -85,6 +85,7 @@
 - [item 06~10](https://actually-clavicle-30b.notion.site/2-105804ffcd608089a61be4d9f4c4a8f2)
 - [item 11~14](https://actually-clavicle-30b.notion.site/3-10b804ffcd60806aab34ccdd785da9e6)
 - [item 15~19](https://actually-clavicle-30b.notion.site/4-11a804ffcd60800a9efbf7fb4629d4bd)
+- [item 20~25](https://actually-clavicle-30b.notion.site/5-121804ffcd60806bacf9f57bd92325ee?pvs=4)
     
 </details>
 <details>
@@ -94,6 +95,7 @@
 - [item 06~10](https://antique-banon-928.notion.site/Effective-Java-6-10-9-19-a02bae4e741d4be59777ba58d03ebba6)
 - [item 11~14](https://antique-banon-928.notion.site/Effective-Java-11-14-9-26-10882aee42598065a58ac577a0d4a032)
 - [item 15~19](https://antique-banon-928.notion.site/Effective-Java-15-19-10-10-10f82aee425980d8a765fb1116cce151?pvs=4)
+- [item 20~25](https://antique-banon-928.notion.site/Effective-Java-20-25-10-17-11d82aee42598045ab1ded57b536635b)
 
 </details>
 <details>
@@ -124,6 +126,12 @@
 - [item 17. 변경 가능성을 최소화하라](https://hojinu.tistory.com/21)
 - [item 18. 상속보다는 컴포지션을 사용해라](https://hojinu.tistory.com/22)
 - [item 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라.](https://hojinu.tistory.com/23)
+- [item 20. 추상 클래스보다는 인터페이스를 우선하라](https://hojinu.tistory.com/24)
+- [item 21. 인터페이스는 구현하는 쪽을 생각해 설계해라](https://hojinu.tistory.com/25)
+- [item 22. 인터페이스는 타입을 정의하는 용도로만 사용하라](https://hojinu.tistory.com/26)
+- [item 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://hojinu.tistory.com/27)
+- [item 24. 멤버 클래스를 되도록 static 으로 만들어라](https://hojinu.tistory.com/28)
+- [item 25. 톱레벨 클래스는 한 파일에 하나만 담으라](https://hojinu.tistory.com/29)
 
 
 </details>
@@ -149,6 +157,12 @@
 - [item 17. 변경 가능성을 최소화하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-17)
 - [item 18. 상속보다는 컴포지션을 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-18)
 - [item 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-19-.)
+- [item 20. 추상 클래스보다는 인터페이스를 우선하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-20)
+- [item 21. 인터페이스는 구현하는 쪽을 생각해 설계하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-21)
+- [item 22. 인터페이스는 타입을 정의하는 용도로만 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-22)
+- [item 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-23)
+- [item 24. 멤버 클래스는 되도록 static으로 만들라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-24-static)
+- [item 25. 톱레벨 클래스는 한 파일에 하나만 담으라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-25)
 
 </details>
 <details>
@@ -159,6 +173,7 @@
 - [item 10](https://thespeace.notion.site/3-8a8db995e850449b9907ed8108f9e4e2)
 - [item 11~14](https://thespeace.notion.site/3-8a8db995e850449b9907ed8108f9e4e2)
 - [item 15~19](https://thespeace.notion.site/4-1068580a9dad80598e52f994202c862b#11b8580a9dad80eaac52dd884f1673c8)
+- [item 20~25](https://thespeace.notion.site/4_2-11b8580a9dad8043b8f8fc84b436e849)
     
 </details>
 
@@ -193,7 +208,7 @@
 | 2주차     |    ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
 | 3주차     |   ✅  |  🎟️   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
 | 4주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   🎟️ |   ✅  |  ✅  |   🎟️   |
-| 5주차     |        |        |        |        |        |        |        |
+| 5주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
 | 6주차     |        |        |        |        |        |        |        |
 | 7주차     |        |        |        |        |        |        |        |
 | 8주차     |        |        |        |        |        |        |        |

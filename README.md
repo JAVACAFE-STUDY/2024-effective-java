@@ -63,6 +63,7 @@
 - [2장 객체 생성과 파괴](https://kmj-projects.notion.site/465204a572404269b903bf898e51b693)
 - [3장 모든 객체의 공통 메서드](https://kmj-projects.notion.site/3-1051240dc145809da118c3cdee876dbb)
 - [4장 클래스와 인터페이스](https://kmj-projects.notion.site/4-1171240dc145806c9759f52e4828e27a)
+- [5장 제네릭](https://kmj-projects.notion.site/5-1251240dc14580bcba98edd937bb70ad)
   
 </details>
 
@@ -86,6 +87,7 @@
 - [item 11~14](https://actually-clavicle-30b.notion.site/3-10b804ffcd60806aab34ccdd785da9e6)
 - [item 15~19](https://actually-clavicle-30b.notion.site/4-11a804ffcd60800a9efbf7fb4629d4bd)
 - [item 20~25](https://actually-clavicle-30b.notion.site/5-121804ffcd60806bacf9f57bd92325ee?pvs=4)
+- [item 26~30](https://actually-clavicle-30b.notion.site/6-129804ffcd6080c7b52ac486167453e6)
     
 </details>
 <details>
@@ -96,6 +98,7 @@
 - [item 11~14](https://antique-banon-928.notion.site/Effective-Java-11-14-9-26-10882aee42598065a58ac577a0d4a032)
 - [item 15~19](https://antique-banon-928.notion.site/Effective-Java-15-19-10-10-10f82aee425980d8a765fb1116cce151?pvs=4)
 - [item 20~25](https://antique-banon-928.notion.site/Effective-Java-20-25-10-17-11d82aee42598045ab1ded57b536635b)
+- [item 26~30](https://antique-banon-928.notion.site/Effective-Java-26-30-10-24-12582aee42598051a18cc17e01fd22f4)
 
 </details>
 <details>
@@ -132,6 +135,11 @@
 - [item 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://hojinu.tistory.com/27)
 - [item 24. 멤버 클래스를 되도록 static 으로 만들어라](https://hojinu.tistory.com/28)
 - [item 25. 톱레벨 클래스는 한 파일에 하나만 담으라](https://hojinu.tistory.com/29)
+- [item 26. 로 타입은 사용하지 말라](https://hojinu.tistory.com/30)
+- [item 27. 비검사 경고를 제거하라](https://hojinu.tistory.com/31)
+- [item 28. 배열보다는 리스트를 사용하라](https://hojinu.tistory.com/32)
+- [item 29. 이왕이면 제네릭 타입으로 만들라](https://hojinu.tistory.com/33)
+- [item 30. 이왕이면 제네릭 메서드로 만들라](https://hojinu.tistory.com/34)
 
 
 </details>
@@ -163,6 +171,13 @@
 - [item 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-23)
 - [item 24. 멤버 클래스는 되도록 static으로 만들라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-24-static)
 - [item 25. 톱레벨 클래스는 한 파일에 하나만 담으라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/4/item-25)
+- [item 26. 로 타입은 사용하지 말라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/item-26)
+- [item 27. 비검사 경고를 제거하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/item-27)
+- [item 28. 배열보다는 리스트를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/item-28)
+- [item 29. 이왕이면 제네릭 타입으로 만들라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/item-29-.)
+- [item 30. 이왕이면 제네릭 메서드로 만들라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/item-30)
+- item 26 ~ item 30 보충 정리 - [와일드 카드에 대한 정리](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/undefined)
+- item 26 ~ item 30 보충 정리 - [제네릭 배열에 대한 정리](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/undefined-1)
 
 </details>
 <details>
@@ -174,6 +189,7 @@
 - [item 11~14](https://thespeace.notion.site/3-8a8db995e850449b9907ed8108f9e4e2)
 - [item 15~19](https://thespeace.notion.site/4-1068580a9dad80598e52f994202c862b#11b8580a9dad80eaac52dd884f1673c8)
 - [item 20~25](https://thespeace.notion.site/4_2-11b8580a9dad8043b8f8fc84b436e849)
+- [item 26~30](https://thespeace.notion.site/5_1-11b8580a9dad80edbf1dff72a4c40cce)
     
 </details>
 
@@ -209,7 +225,7 @@
 | 3주차     |   ✅  |  🎟️   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
 | 4주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   🎟️ |   ✅  |  ✅  |   🎟️   |
 | 5주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
-| 6주차     |        |        |        |        |        |        |        |
+| 6주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
 | 7주차     |        |        |        |        |        |        |        |
 | 8주차     |        |        |        |        |        |        |        |
 | 9주차     |        |        |        |        |        |        |        |

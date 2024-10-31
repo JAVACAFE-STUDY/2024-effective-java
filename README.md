@@ -50,7 +50,7 @@
 | 모인 벌금          | 스터디 종료 후 뒷풀이로 소진 | 과반수 이상 불참시 1/n                                  |
 
 - 패스권 개인당 2개 부여
-  - 3일 전(화요일 밤 12시까지) 담당자(팀장)에게 불참 사유 공유하기
+  - 3일 전(월요일 밤 12시까지) 담당자(팀장)에게 불참 사유 공유하기
   - 예외: 당일 야근
   - 불참시에도 자료 공유는 필수 (\*기한 준수) ⭐️
 - 지각, 결석 시에는 담당자(팀장)에게 연락하기
@@ -64,6 +64,7 @@
 - [3장 모든 객체의 공통 메서드](https://kmj-projects.notion.site/3-1051240dc145809da118c3cdee876dbb)
 - [4장 클래스와 인터페이스](https://kmj-projects.notion.site/4-1171240dc145806c9759f52e4828e27a)
 - [5장 제네릭](https://kmj-projects.notion.site/5-1251240dc14580bcba98edd937bb70ad)
+- [6장 열거 타입과 애너테이션](https://kmj-projects.notion.site/6-12e1240dc1458046a148e1f9ee975bb4)
   
 </details>
 
@@ -88,6 +89,7 @@
 - [item 15~19](https://actually-clavicle-30b.notion.site/4-11a804ffcd60800a9efbf7fb4629d4bd)
 - [item 20~25](https://actually-clavicle-30b.notion.site/5-121804ffcd60806bacf9f57bd92325ee?pvs=4)
 - [item 26~30](https://actually-clavicle-30b.notion.site/6-129804ffcd6080c7b52ac486167453e6)
+- [item 31~35](https://actually-clavicle-30b.notion.site/7-12f804ffcd6080319a4fcf5bc73db8d2?pvs=4)
     
 </details>
 <details>
@@ -99,6 +101,7 @@
 - [item 15~19](https://antique-banon-928.notion.site/Effective-Java-15-19-10-10-10f82aee425980d8a765fb1116cce151?pvs=4)
 - [item 20~25](https://antique-banon-928.notion.site/Effective-Java-20-25-10-17-11d82aee42598045ab1ded57b536635b)
 - [item 26~30](https://antique-banon-928.notion.site/Effective-Java-26-30-10-24-12582aee42598051a18cc17e01fd22f4)
+- [item 31~35](https://antique-banon-928.notion.site/Effective-Java-31-35-10-31-12c82aee425980a3bbd6d242a11395ee)
 
 </details>
 <details>
@@ -140,6 +143,11 @@
 - [item 28. 배열보다는 리스트를 사용하라](https://hojinu.tistory.com/32)
 - [item 29. 이왕이면 제네릭 타입으로 만들라](https://hojinu.tistory.com/33)
 - [item 30. 이왕이면 제네릭 메서드로 만들라](https://hojinu.tistory.com/34)
+- [item 31. 한정적 와일드카드를 사용해 API 유연성을 높이라](https://hojinu.tistory.com/35)
+- [item 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라](https://hojinu.tistory.com/36)
+- [item 33. 타입 안전 이종 컨테이너를 고려하라](https://hojinu.tistory.com/37)
+- [item 34. int 상수 대신 열거 타입을 사용하라](https://hojinu.tistory.com/38)
+- [item 35. ordinal 메서드 대신 인스턴스 필드를 사용하라](https://hojinu.tistory.com/39)
 
 
 </details>
@@ -176,8 +184,13 @@
 - [item 28. 배열보다는 리스트를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/item-28)
 - [item 29. 이왕이면 제네릭 타입으로 만들라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/item-29-.)
 - [item 30. 이왕이면 제네릭 메서드로 만들라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/item-30)
-- item 26 ~ item 30 보충 정리 - [와일드 카드에 대한 정리](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/undefined)
-- item 26 ~ item 30 보충 정리 - [제네릭 배열에 대한 정리](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/undefined-1)
+- item 26 ~ item 30 보충 정리: [와일드 카드에 대한 정리](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/undefined)
+- item 26 ~ item 30 보충 정리: [제네릭 배열에 대한 정리](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/undefined-1)
+- [item 31. 한정적 와일드카드를 사용해 API 유연성을 높이라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/item-31-api)
+- [item 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/item-32)
+- [item 33. 타입 안전 이종 컨테이너를 고려하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/item-33)
+- [item 34. int 상수 대신 열거 타입을 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/6/item-34-int)
+- [item 35. ordinal 메서드 대신 인스턴스 필드를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/6/item-35-ordinal)
 
 </details>
 <details>
@@ -190,6 +203,8 @@
 - [item 15~19](https://thespeace.notion.site/4-1068580a9dad80598e52f994202c862b#11b8580a9dad80eaac52dd884f1673c8)
 - [item 20~25](https://thespeace.notion.site/4_2-11b8580a9dad8043b8f8fc84b436e849)
 - [item 26~30](https://thespeace.notion.site/5_1-11b8580a9dad80edbf1dff72a4c40cce)
+- [item 31~33](https://thespeace.notion.site/5_2-1288580a9dad80b9a1ddc44a245caf2d)
+- [item 34~35](https://thespeace.notion.site/6_1-12a8580a9dad804f9108c040904d0b0f)
     
 </details>
 
@@ -226,7 +241,7 @@
 | 4주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   🎟️ |   ✅  |  ✅  |   🎟️   |
 | 5주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
 | 6주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
-| 7주차     |        |        |        |        |        |        |        |
+| 7주차     |   ✅  |  ✅   |  ✅   |  ❌  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
 | 8주차     |        |        |        |        |        |        |        |
 | 9주차     |        |        |        |        |        |        |        |
 | 10주차    |        |        |        |        |        |        |        |
@@ -234,5 +249,5 @@
 | 12주차    |        |        |        |        |        |        |        |
 | 13주차    |        |        |        |        |        |        |        |
 | 14주차    |        |        |        |        |        |        |        |
-| 보증금 현황 |60,000|60,000|60,000|60,000|60,000|60,000|60,000|60,000|60,000|
+| 보증금 현황 |60,000|60,000|60,000|40,000|60,000|60,000|60,000|60,000|60,000|
 | 패스권     |  2개 |  1개  |  2개 |  2개   |  2개  |   1개  |  1개 |  2개  | 1개 |

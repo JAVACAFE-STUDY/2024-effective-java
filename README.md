@@ -90,6 +90,7 @@
 - [item 20~25](https://actually-clavicle-30b.notion.site/5-121804ffcd60806bacf9f57bd92325ee?pvs=4)
 - [item 26~30](https://actually-clavicle-30b.notion.site/6-129804ffcd6080c7b52ac486167453e6)
 - [item 31~35](https://actually-clavicle-30b.notion.site/7-12f804ffcd6080319a4fcf5bc73db8d2?pvs=4)
+- [item 36~41](https://actually-clavicle-30b.notion.site/8-136804ffcd6080f09487fe48b829f4c1)
     
 </details>
 <details>
@@ -102,6 +103,7 @@
 - [item 20~25](https://antique-banon-928.notion.site/Effective-Java-20-25-10-17-11d82aee42598045ab1ded57b536635b)
 - [item 26~30](https://antique-banon-928.notion.site/Effective-Java-26-30-10-24-12582aee42598051a18cc17e01fd22f4)
 - [item 31~35](https://antique-banon-928.notion.site/Effective-Java-31-35-10-31-12c82aee425980a3bbd6d242a11395ee)
+- [item 36~41](https://antique-banon-928.notion.site/Effective-Java-36-41-11-07-13182aee42598016a3c4ee8903354d57?pvs=4)
 
 </details>
 <details>
@@ -148,6 +150,12 @@
 - [item 33. 타입 안전 이종 컨테이너를 고려하라](https://hojinu.tistory.com/37)
 - [item 34. int 상수 대신 열거 타입을 사용하라](https://hojinu.tistory.com/38)
 - [item 35. ordinal 메서드 대신 인스턴스 필드를 사용하라](https://hojinu.tistory.com/39)
+- [item 36. 비트 필드 대신 EnumSet 을 사용하라](https://hojinu.tistory.com/40)
+- [item 37. ordinal 인덱싱 대신 EnumMap 을 사용하라](https://hojinu.tistory.com/41)
+- [item 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라](https://hojinu.tistory.com/42)
+- [item 39. 명명 패턴보다 애너테이션을 사용하라](https://hojinu.tistory.com/43)
+- [item 40. @Override 애너테이션을 일관되게 사용하라](https://hojinu.tistory.com/44)
+- [item 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](https://hojinu.tistory.com/45)
 
 
 </details>
@@ -191,6 +199,12 @@
 - [item 33. 타입 안전 이종 컨테이너를 고려하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/5/item-33)
 - [item 34. int 상수 대신 열거 타입을 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/6/item-34-int)
 - [item 35. ordinal 메서드 대신 인스턴스 필드를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/6/item-35-ordinal)
+- [item 36. 비트 필드 대신 EnumSet을 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/6/item-36-enumset)
+- [item 37. ordinal 인덱싱 대신 EnumMap을 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/6/item-37-ordinal-enummap)
+- [item 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/6/item-38)
+- [item 39. 명명 패턴보다 애너테이션을 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/6/item-39)
+- [item 40. @Override 애너테이션을 일관되게 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/6/item-40-override)
+- [item 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/6/item-41)
 
 </details>
 <details>
@@ -205,6 +219,8 @@
 - [item 26~30](https://thespeace.notion.site/5_1-11b8580a9dad80edbf1dff72a4c40cce)
 - [item 31~33](https://thespeace.notion.site/5_2-1288580a9dad80b9a1ddc44a245caf2d)
 - [item 34~35](https://thespeace.notion.site/6_1-12a8580a9dad804f9108c040904d0b0f)
+- [item 36~37](https://thespeace.notion.site/6_1-12a8580a9dad804f9108c040904d0b0f?pvs=73)
+- [item 38~41](https://thespeace.notion.site/6_2-12a8580a9dad80ab921eca30c7869115?pvs=73)
     
 </details>
 
@@ -242,7 +258,7 @@
 | 5주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
 | 6주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
 | 7주차     |   ✅  |  ✅   |  ✅   |  ❌  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
-| 8주차     |        |        |        |        |        |        |        |
+| 8주차     |   🎟️  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   🎟️  |  ✅  |   🎟️   |
 | 9주차     |        |        |        |        |        |        |        |
 | 10주차    |        |        |        |        |        |        |        |
 | 11주차    |        |        |        |        |        |        |        |
@@ -250,4 +266,4 @@
 | 13주차    |        |        |        |        |        |        |        |
 | 14주차    |        |        |        |        |        |        |        |
 | 보증금 현황 |60,000|60,000|60,000|40,000|60,000|60,000|60,000|60,000|60,000|
-| 패스권     |  2개 |  1개  |  2개 |  2개   |  2개  |   1개  |  1개 |  2개  | 1개 |
+| 패스권     |  1개 |  1개  |  2개 |  2개   |  2개  |   1개  |  0개 |  2개  | 0개 |

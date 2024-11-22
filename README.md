@@ -1,6 +1,8 @@
 # 🍂 2024 Effective Java Study
 
-[![Since](https://img.shields.io/badge/since-2024.09.12-FFD48F.svg?&edge_flat=false)](https://github.com/JAVACAFE-STUDY/2024-modern-react-deep-dive-study)
+[![Since](https://img.shields.io/badge/since-2024.09.12-FFD48F.svg?&edge_flat=false)](https://github.com/JAVACAFE-STUDY/2024-modern-react-deep-dive-study)   
+
+🍁 [스터디 기록](https://github.com/JAVACAFE-STUDY/2024-effective-java/issues?q=is%3Aissue)
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/c5cc62d7-68a9-4421-8ff6-a9059cb29d70" width="20%" />
@@ -57,8 +59,6 @@
 
 ## 🥮 스터디 자료 모음
 
-🍁 [스터디 기록](https://github.com/JAVACAFE-STUDY/2024-effective-java/issues?q=is%3Aissue)
-
 <details>
 <summary> 🧑🏻‍💻 김민지</summary>
 
@@ -68,6 +68,7 @@
 - [5장 제네릭](https://kmj-projects.notion.site/5-1251240dc14580bcba98edd937bb70ad)
 - [6장 열거 타입과 애너테이션](https://kmj-projects.notion.site/6-12e1240dc1458046a148e1f9ee975bb4)
 - [7장 람다와 스트림](https://kmj-projects.notion.site/7-13e1240dc1458021b69ac7593e9b91e9)
+- [8장 메서드](https://kmj-projects.notion.site/8-1441240dc14580789da5fab1712a58ec)
 
   
 </details>
@@ -95,7 +96,8 @@
 - [item 26~30](https://actually-clavicle-30b.notion.site/6-129804ffcd6080c7b52ac486167453e6)
 - [item 31~35](https://actually-clavicle-30b.notion.site/7-12f804ffcd6080319a4fcf5bc73db8d2?pvs=4)
 - [item 36~41](https://actually-clavicle-30b.notion.site/8-136804ffcd6080f09487fe48b829f4c1)
-- [item 42~25](https://actually-clavicle-30b.notion.site/9-13e804ffcd60808db1abcdad043d91c4)
+- [item 42~45](https://actually-clavicle-30b.notion.site/9-13e804ffcd60808db1abcdad043d91c4)
+- [item 46~50](https://actually-clavicle-30b.notion.site/10-143804ffcd6080a0ac5cd1be36438d8f)
     
 </details>
 <details>
@@ -110,6 +112,7 @@
 - [item 31~35](https://antique-banon-928.notion.site/Effective-Java-31-35-10-31-12c82aee425980a3bbd6d242a11395ee)
 - [item 36~41](https://antique-banon-928.notion.site/Effective-Java-36-41-11-07-13182aee42598016a3c4ee8903354d57?pvs=4)
 - [item 42~45](https://antique-banon-928.notion.site/Effective-Java-42-45-11-14-13a82aee425980cf88c6fc1d6450915c)
+- [item 46~50](https://antique-banon-928.notion.site/Effective-Java-46-50-11-21-14182aee425980ce91d7ef3ae86a2f38?pvs=4)
 
 </details>
 <details>
@@ -166,6 +169,11 @@
 - [item 43. 람다보다는 메서드 참조를 사용하라](https://hojinu.tistory.com/47)
 - [item 44. 표준 함수형 인터페이스를 사용하라](https://hojinu.tistory.com/48)
 - [item 45. 스트림은 주의해서 사용하라](https://hojinu.tistory.com/49)
+- [item 46. 스트림에서는 부작용 없는 함수를 사용하라](https://hojinu.tistory.com/50)
+- [item 47. 반환 타입으로는 스트림보다 컬렉션이 낫다](https://hojinu.tistory.com/51)
+- [item 48. 스트림 병렬화는 주의해서 적용하라](https://hojinu.tistory.com/52)
+- [item 49. 매개변수가 유효한지 검사해라](https://hojinu.tistory.com/53)
+- [item 50. 적시에 방어적 복사본을 만들라](https://hojinu.tistory.com/54)
 
 
 </details>
@@ -219,6 +227,11 @@
 - [item 43. 람다보다는 메서드 참조를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/7/item-43)
 - [item 44. 표준 함수형 인터페이스를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/7/item-44)
 - [item 45. 스트림은 주의해서 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/7/item-45)
+- [item 46. 스트림에서는 부작용 없는 함수를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/7/item-46)
+- [item 47. 반환 타입으로는 스트림보다 컬렉션이 낫다](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/7/item-47-.)
+- [item 48. 스트림 병렬화는 주의해서 적용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/7/item-48)
+- [item 49. 매개변수가 유효한지 검사하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/8/item-49)
+- [item 50. 적시에 방어적 복사본을 만들라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/8/item-50)
 
 </details>
 <details>
@@ -236,6 +249,8 @@
 - [item 36~37](https://thespeace.notion.site/6_1-12a8580a9dad804f9108c040904d0b0f?pvs=73)
 - [item 38~41](https://thespeace.notion.site/6_2-12a8580a9dad80ab921eca30c7869115?pvs=73)
 - [item 42~45](https://thespeace.notion.site/7_1-13d8580a9dad804fbc56c61dbeaad75b)
+- [item 46~48](https://thespeace.notion.site/7_2-1458580a9dad80e2bf85e2c3409d1c61)
+- [item 49~50](https://thespeace.notion.site/8_1-1458580a9dad805d8effefc58118e331)
     
 </details>
 
@@ -266,19 +281,19 @@
 
 |           | 김민지 | 조연주 | 유승민 | 이예빈 | 유기훈 | 이시향 | 김진우 | 이금주 | 서성환 |
 | --------- | ---- | ---- | ----- | ---- | ----  | ---- | ---- | ---- | ---- |
-| 1주차     |   ✅  |  ✅   |  ✅   |  ✅   |   ✅  |   ✅ |   🎟️  |  ✅  |   ✅   |
-| 2주차     |    ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
-| 3주차     |   ✅  |  🎟️   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
-| 4주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   🎟️ |   ✅  |  ✅  |   🎟️   |
-| 5주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
-| 6주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
-| 7주차     |   ✅  |  ✅   |  ✅   |  ❌  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
-| 8주차     |   🎟️  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |   🎟️  |  ✅  |   🎟️   |
-| 9주차     |   ✅  |  ✅   |  ✅   |  🎟️  |  ✅  |   ✅ |   ✅  |  ✅  |   ✅   |
-| 10주차    |        |        |        |        |        |        |        |
+| 1주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |  🎟️  |  ✅  |  ✅  |
+| 2주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |  ✅  |  ✅  |  ✅  |
+| 3주차     |   ✅  |  🎟️   |  ✅   |  ✅  |  ✅  |   ✅ |  ✅  |  ✅  |  ✅  |
+| 4주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   🎟️ |  ✅  |  ✅  |  🎟️  |
+| 5주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |  ✅  |  ✅  |  ✅  |
+| 6주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |  ✅  |  ✅  |  ✅  |
+| 7주차     |   ✅  |  ✅   |  ✅   |  ❌  |  ✅  |   ✅ |  ✅  |  ✅  |  ✅  |
+| 8주차     |   🎟️  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |  🎟️  |  ✅  |  🎟️  |
+| 9주차     |   ✅  |  ✅   |  ✅   |  🎟️  |  ✅  |   ✅ |  ✅  |  ✅  |  ✅  |
+| 10주차    |   ✅  |  ✅   |  🎟️   |  ✅  |  ✅  |   ✅ |  ✅  |  ✅  |  ❌  |
 | 11주차    |        |        |        |        |        |        |        |
 | 12주차    |        |        |        |        |        |        |        |
 | 13주차    |        |        |        |        |        |        |        |
 | 14주차    |        |        |        |        |        |        |        |
-| 보증금 현황 |60,000|60,000|60,000|40,000|60,000|60,000|60,000|60,000|60,000|
-| 패스권     |  1개 |  1개  |  2개 |  1개   |  2개  |   1개  |  0개 |  2개  | 0개 |
+| 보증금 현황 |60,000|60,000|60,000|40,000|60,000|60,000|60,000|60,000|40,000|
+| 패스권     |  1개 |  1개  |  1개 |  1개   |  2개  |   1개  |  0개 |  2개  | 0개 |

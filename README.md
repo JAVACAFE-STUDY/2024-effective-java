@@ -98,6 +98,7 @@
 - [item 36~41](https://actually-clavicle-30b.notion.site/8-136804ffcd6080f09487fe48b829f4c1)
 - [item 42~45](https://actually-clavicle-30b.notion.site/9-13e804ffcd60808db1abcdad043d91c4)
 - [item 46~50](https://actually-clavicle-30b.notion.site/10-143804ffcd6080a0ac5cd1be36438d8f)
+- [item 51~56](https://actually-clavicle-30b.notion.site/11-149804ffcd6080d5923af6af0b4fe2eb?pvs=4)
     
 </details>
 <details>
@@ -113,6 +114,7 @@
 - [item 36~41](https://antique-banon-928.notion.site/Effective-Java-36-41-11-07-13182aee42598016a3c4ee8903354d57?pvs=4)
 - [item 42~45](https://antique-banon-928.notion.site/Effective-Java-42-45-11-14-13a82aee425980cf88c6fc1d6450915c)
 - [item 46~50](https://antique-banon-928.notion.site/Effective-Java-46-50-11-21-14182aee425980ce91d7ef3ae86a2f38?pvs=4)
+- [item 51~56](https://antique-banon-928.notion.site/Effective-Java-51-56-11-28-14782aee4259804d9680c0a15ea9ab0d?pvs=4)
 
 </details>
 <details>
@@ -174,7 +176,12 @@
 - [item 48. 스트림 병렬화는 주의해서 적용하라](https://hojinu.tistory.com/52)
 - [item 49. 매개변수가 유효한지 검사해라](https://hojinu.tistory.com/53)
 - [item 50. 적시에 방어적 복사본을 만들라](https://hojinu.tistory.com/54)
-
+- [item 51. 메서드 시그니처를 신중히 설계하라](https://hojinu.tistory.com/55)
+- [item 52. 다중정의는 신중히 사용하라](https://hojinu.tistory.com/56)
+- [item 53. 가변인수는 신중히 사용하라](https://hojinu.tistory.com/57)
+- [item 54. null 이 아닌, 빈 컬렉션이나 배열을 반환하라](https://hojinu.tistory.com/58)
+- [item 55. 옵셔널 반환은 신중히 하라](https://hojinu.tistory.com/59)
+- [item 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라](https://hojinu.tistory.com/60)
 
 </details>
 <details>
@@ -232,6 +239,12 @@
 - [item 48. 스트림 병렬화는 주의해서 적용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/7/item-48)
 - [item 49. 매개변수가 유효한지 검사하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/8/item-49)
 - [item 50. 적시에 방어적 복사본을 만들라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/8/item-50)
+- [item 51. 메서드 시그니처를 신중히 설계하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/8/item-51)
+- [item 52. 다중정의는 신중히 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/8/item-52)
+- [item 53. 가변인수는 신중히 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/8/item-53-.)
+- [item 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/8/item-54-null)
+- [item 55. 옵셔널 반환은 신중히 하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/8/item-55)
+- [item 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/8/item-56-api)
 
 </details>
 <details>
@@ -251,6 +264,8 @@
 - [item 42~45](https://thespeace.notion.site/7_1-13d8580a9dad804fbc56c61dbeaad75b)
 - [item 46~48](https://thespeace.notion.site/7_2-1458580a9dad80e2bf85e2c3409d1c61)
 - [item 49~50](https://thespeace.notion.site/8_1-1458580a9dad805d8effefc58118e331)
+- [iteam 51~52](https://thespeace.notion.site/8_1-1458580a9dad805d8effefc58118e331)
+- [iteam 53~56](https://thespeace.notion.site/8_2-1498580a9dad80f5aa66d6cd5a88f336)
     
 </details>
 
@@ -291,9 +306,9 @@
 | 8주차     |   🎟️  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |  🎟️  |  ✅  |  🎟️  |
 | 9주차     |   ✅  |  ✅   |  ✅   |  🎟️  |  ✅  |   ✅ |  ✅  |  ✅  |  ✅  |
 | 10주차    |   ✅  |  ✅   |  🎟️   |  ✅  |  ✅  |   ✅ |  ✅  |  ✅  |  ❌  |
-| 11주차    |        |        |        |        |        |        |        |
+| 11주차    |   ✅  |  🎟️   |  🎟️   |  ✅  |  🎟️  |   🎟️ |  ❌  |  ✅  |  ✅  |
 | 12주차    |        |        |        |        |        |        |        |
 | 13주차    |        |        |        |        |        |        |        |
 | 14주차    |        |        |        |        |        |        |        |
-| 보증금 현황 |60,000|60,000|60,000|40,000|60,000|60,000|60,000|60,000|40,000|
-| 패스권     |  1개 |  1개  |  1개 |  1개   |  2개  |   1개  |  0개 |  2개  | 0개 |
+| 보증금 현황 |60,000|60,000|60,000|40,000|60,000|60,000|40,000|60,000|40,000|
+| 패스권     |  1개 |  0개  |  0개 |  1개   |  1개  |   0개  |  0개 |  2개  | 0개 |

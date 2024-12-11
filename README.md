@@ -99,6 +99,7 @@
 - [item 42~45](https://actually-clavicle-30b.notion.site/9-13e804ffcd60808db1abcdad043d91c4)
 - [item 46~50](https://actually-clavicle-30b.notion.site/10-143804ffcd6080a0ac5cd1be36438d8f)
 - [item 51~56](https://actually-clavicle-30b.notion.site/11-149804ffcd6080d5923af6af0b4fe2eb?pvs=4)
+- [item 69~74](https://actually-clavicle-30b.notion.site/12-152804ffcd6080288243e6bccffc7b97?pvs=4)
     
 </details>
 <details>
@@ -115,6 +116,7 @@
 - [item 42~45](https://antique-banon-928.notion.site/Effective-Java-42-45-11-14-13a82aee425980cf88c6fc1d6450915c)
 - [item 46~50](https://antique-banon-928.notion.site/Effective-Java-46-50-11-21-14182aee425980ce91d7ef3ae86a2f38?pvs=4)
 - [item 51~56](https://antique-banon-928.notion.site/Effective-Java-51-56-11-28-14782aee4259804d9680c0a15ea9ab0d?pvs=4)
+- [item 69~74](https://antique-banon-928.notion.site/Effective-Java-69-74-14d82aee4259804cb002e2e2b95a2d47?pvs=4)
 
 </details>
 <details>
@@ -182,6 +184,12 @@
 - [item 54. null 이 아닌, 빈 컬렉션이나 배열을 반환하라](https://hojinu.tistory.com/58)
 - [item 55. 옵셔널 반환은 신중히 하라](https://hojinu.tistory.com/59)
 - [item 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라](https://hojinu.tistory.com/60)
+- [item 69. 예외는 진짜 예외 상황에만 사용해라](https://hojinu.tistory.com/61)
+- [item 70. 복구할 수 있는 상황에는 검사 예외를, 프로그래밍 오류에는 런타임 예외를 사용하라](https://hojinu.tistory.com/62)
+- [item 71. 필요 없는 검사 예외 사용은 피해라](https://hojinu.tistory.com/63)
+- [item 72. 표준 예외를 사용하라](https://hojinu.tistory.com/64)
+- [item 73. 추상화 수준에 맞는 예외를 던져라](https://hojinu.tistory.com/65)
+- [item 74. 메서드가 던지는 모든 예외를 문서화해라](https://hojinu.tistory.com/66)
 
 </details>
 <details>
@@ -245,6 +253,12 @@
 - [item 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/8/item-54-null)
 - [item 55. 옵셔널 반환은 신중히 하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/8/item-55)
 - [item 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/8/item-56-api)
+- [item 69. 예외는 진짜 예외 상황에만 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/10/item-69)
+- [item 70. 복구할 수 있는 상황에는 검사 예외를, 프로그래밍 오류에는 런타임 예외를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/10/item-70)
+- [item 71. 필요 없는 검사 예외 사용은 피하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/10/item-71)
+- [item 72. 표준 예외를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/10/item-72)
+- [item 73. 추상화 수준에 맞는 예외를 던지라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/10/item-73)
+- [item 74. 메서드가 던지는 모든 예외를 문서화하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/10/item-74)
 
 </details>
 <details>
@@ -264,8 +278,9 @@
 - [item 42~45](https://thespeace.notion.site/7_1-13d8580a9dad804fbc56c61dbeaad75b)
 - [item 46~48](https://thespeace.notion.site/7_2-1458580a9dad80e2bf85e2c3409d1c61)
 - [item 49~50](https://thespeace.notion.site/8_1-1458580a9dad805d8effefc58118e331)
-- [iteam 51~52](https://thespeace.notion.site/8_1-1458580a9dad805d8effefc58118e331)
-- [iteam 53~56](https://thespeace.notion.site/8_2-1498580a9dad80f5aa66d6cd5a88f336)
+- [item 51~52](https://thespeace.notion.site/8_1-1458580a9dad805d8effefc58118e331)
+- [item 53~56](https://thespeace.notion.site/8_2-1498580a9dad80f5aa66d6cd5a88f336)
+- [item 69~74](https://thespeace.notion.site/10_1-1538580a9dad802da4d0e8d7ab292ab9)
     
 </details>
 
@@ -307,8 +322,8 @@
 | 9주차     |   ✅  |  ✅   |  ✅   |  🎟️  |  ✅  |   ✅ |  ✅  |  ✅  |  ✅  |
 | 10주차    |   ✅  |  ✅   |  🎟️   |  ✅  |  ✅  |   ✅ |  ✅  |  ✅  |  ❌  |
 | 11주차    |   ✅  |  🎟️   |  🎟️   |  ✅  |  🎟️  |   🎟️ |  ❌  |  ✅  |  ✅  |
-| 12주차    |        |        |        |        |        |        |        |
+| 12주차    |   ❌  |  ❌   |  ❌   |  ✅  |  🎟️  |   ✅ |  ✅  |  🎟️  |  ❌  |
 | 13주차    |        |        |        |        |        |        |        |
 | 14주차    |        |        |        |        |        |        |        |
-| 보증금 현황 |60,000|60,000|60,000|40,000|60,000|60,000|40,000|60,000|40,000|
-| 패스권     |  1개 |  0개  |  0개 |  1개   |  1개  |   0개  |  0개 |  2개  | 0개 |
+| 보증금 현황 | 40,000| 40,000| 40,000| 40,000|60,000|60,000|40,000|60,000|20,000|
+| 패스권     |  1개 |  0개  |  0개 |  1개   |  0개  |   0개  |  0개 |  1개  | 0개 |

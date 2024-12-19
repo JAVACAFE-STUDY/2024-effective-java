@@ -1,6 +1,6 @@
 # 🍂 2024 Effective Java Study
 
-[![Since](https://img.shields.io/badge/since-2024.09.12-FFD48F.svg?&edge_flat=false)](https://github.com/JAVACAFE-STUDY/2024-modern-react-deep-dive-study)   
+[![Since](https://img.shields.io/badge/since-2024.09.12-FFD48F.svg?&edge_flat=false)](https://github.com/JAVACAFE-STUDY/2024-modern-react-deep-dive-study) [![Until](https://img.shields.io/badge/until-2024.12.19-AF3E3E.svg?&edge_flat=false)](https://github.com/JAVACAFE-STUDY/2024-modern-react-deep-dive-study)   
 
 🍁 [스터디 기록](https://github.com/JAVACAFE-STUDY/2024-effective-java/issues?q=is%3Aissue)
 
@@ -70,6 +70,7 @@
 - [7장 람다와 스트림](https://kmj-projects.notion.site/7-13e1240dc1458021b69ac7593e9b91e9)
 - [8장 메서드](https://kmj-projects.notion.site/8-1441240dc14580789da5fab1712a58ec)
 - [10장 예외](https://kmj-projects.notion.site/10-14e1240dc14580a7a616da4edf7dc85d?pvs=4)
+- [11장 동시성](https://kmj-projects.notion.site/11-15a1240dc145804094a5e394d069003a)
   
 </details>
 
@@ -100,7 +101,7 @@
 - [item 46~50](https://actually-clavicle-30b.notion.site/10-143804ffcd6080a0ac5cd1be36438d8f)
 - [item 51~56](https://actually-clavicle-30b.notion.site/11-149804ffcd6080d5923af6af0b4fe2eb?pvs=4)
 - [item 69~74](https://actually-clavicle-30b.notion.site/12-152804ffcd6080288243e6bccffc7b97?pvs=4)
-    
+
 </details>
 <details>
 <summary> 🧑🏻‍💻 유기훈</summary>
@@ -118,6 +119,7 @@
 - [item 51~56](https://antique-banon-928.notion.site/Effective-Java-51-56-11-28-14782aee4259804d9680c0a15ea9ab0d?pvs=4)
 - [item 69~74](https://antique-banon-928.notion.site/Effective-Java-69-74-14d82aee4259804cb002e2e2b95a2d47?pvs=4)
 - [item 75~79](https://antique-banon-928.notion.site/Effective-Java-75-80-12-12-15582aee4259807cba6deeb4fc337751?pvs=4)
+- [item 80~85](https://antique-banon-928.notion.site/15d82aee425980079240fa5868535019?pvs=4)
 
 </details>
 <details>
@@ -196,6 +198,11 @@
 - [item 77. 예외를 무시하지 말라](https://hojinu.tistory.com/69)
 - [item 78. 공유 중인 가변 데이터는 동기화해 사용하라](https://hojinu.tistory.com/70)
 - [item 79. 과도한 동기화는 피하라](https://hojinu.tistory.com/71)
+- [item 80. 스레드보다는 실행자, 태스크, 스트림을 애용하라](https://hojinu.tistory.com/72)
+- [item 81. wait 와 notify 보다는 동시성 유틸리티를 애용해라](https://hojinu.tistory.com/73)
+- [item 82. 스레드 안전성 수준을 문서화해라](https://hojinu.tistory.com/74)
+- [item 83. 지연 초기화는 신중히 사용하라](https://hojinu.tistory.com/75)
+- [item 84. 프로그램의 동작을 스레드 스케줄러에 기대지 말라](https://hojinu.tistory.com/76)
 
 </details>
 <details>
@@ -270,6 +277,11 @@
 - [item 77. 예외를 무시하지 말라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/10/item-77)
 - [item 78. 공유 중인 가변 데이터는 동기화해 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/11/item-78)
 - [item 79. 과도한 동기화는 피하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/11/item-79)
+- [item 80. 스레드보다는 실행자, 태스크, 스트림을 애용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/11/item-80-.)
+- [item 81. wait와 notify보다는 동시성 유틸리티를 애용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/11/item-81-wait-notify)
+- [item 82. 스레드 안전성 수준을 문서화하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/11/item-82)
+- [item 83. 지연 초기화는 신중히 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/11/item-83)
+- [item 84. 프로그램의 동작을 스레드 스케줄러에 기대지 말라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/11/item-84)
 
 </details>
 <details>
@@ -294,6 +306,7 @@
 - [item 69~74](https://thespeace.notion.site/10_1-1538580a9dad802da4d0e8d7ab292ab9)
 - [item 75~77](https://thespeace.notion.site/10_2-1578580a9dad8054953cc19d8d0272ed)
 - [item 78~79](https://thespeace.notion.site/11_1-1578580a9dad800eb92ecd04c39c4568)
+- [item 80~84](https://thespeace.notion.site/11_2-1578580a9dad80108fd1ce9de6e5e558#1618580a9dad80b2b4e7d8311f68c476)
     
 </details>
 
@@ -337,6 +350,6 @@
 | 11주차    |   ✅  |  🎟️   |  🎟️   |  ✅  |  🎟️  |   🎟️ |  ❌  |  ✅  |  ✅  |
 | 12주차    |   ❌  |  ❌   |  ❌   |  ✅  |  🎟️  |   ✅ |  ✅  |  🎟️  |  ❌  |
 | 13주차    |   ✅  |  ✅   |  ✅   |  ❌  |  ✅  |   ❌ |  ✅  |  ✅  |  ❌  |
-| 14주차    |        |        |        |        |        |        |        |
-| 보증금 현황 | 40,000| 40,000| 40,000| 20,000|60,000|40,000|40,000|60,000|   0   |
-| 패스권     |  1개 |  0개  |  0개 |  1개   |  0개  |   0개  |  0개 |  1개  | 0개 |
+| 14주차    |   🎟️  |  🔺   |  ✅   |  ❌  |  ✅  |   🔺 |  ❌  |  ✅  |  ❌  |
+| 보증금 현황 | 40,000| 20,000| 40,000|   0  |60,000|20,000|20,000|60,000|   0   |
+| 패스권     |  0개 |  0개  |  0개 |  1개   |  0개  |   0개  |  0개 |  1개  | 0개 |

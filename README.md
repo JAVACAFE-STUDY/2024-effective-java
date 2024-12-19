@@ -69,7 +69,7 @@
 - [6장 열거 타입과 애너테이션](https://kmj-projects.notion.site/6-12e1240dc1458046a148e1f9ee975bb4)
 - [7장 람다와 스트림](https://kmj-projects.notion.site/7-13e1240dc1458021b69ac7593e9b91e9)
 - [8장 메서드](https://kmj-projects.notion.site/8-1441240dc14580789da5fab1712a58ec)
-
+- [10장 예외](https://kmj-projects.notion.site/10-14e1240dc14580a7a616da4edf7dc85d?pvs=4)
   
 </details>
 
@@ -117,6 +117,7 @@
 - [item 46~50](https://antique-banon-928.notion.site/Effective-Java-46-50-11-21-14182aee425980ce91d7ef3ae86a2f38?pvs=4)
 - [item 51~56](https://antique-banon-928.notion.site/Effective-Java-51-56-11-28-14782aee4259804d9680c0a15ea9ab0d?pvs=4)
 - [item 69~74](https://antique-banon-928.notion.site/Effective-Java-69-74-14d82aee4259804cb002e2e2b95a2d47?pvs=4)
+- [item 75~79](https://antique-banon-928.notion.site/Effective-Java-75-80-12-12-15582aee4259807cba6deeb4fc337751?pvs=4)
 
 </details>
 <details>
@@ -190,6 +191,11 @@
 - [item 72. 표준 예외를 사용하라](https://hojinu.tistory.com/64)
 - [item 73. 추상화 수준에 맞는 예외를 던져라](https://hojinu.tistory.com/65)
 - [item 74. 메서드가 던지는 모든 예외를 문서화해라](https://hojinu.tistory.com/66)
+- [item 75. 예외의 상세 메시지에 실패 관련 정보를 담으라](https://hojinu.tistory.com/67)
+- [item 76. 가능한 한 실패 원자적으로 만들라](https://hojinu.tistory.com/68)
+- [item 77. 예외를 무시하지 말라](https://hojinu.tistory.com/69)
+- [item 78. 공유 중인 가변 데이터는 동기화해 사용하라](https://hojinu.tistory.com/70)
+- [item 79. 과도한 동기화는 피하라](https://hojinu.tistory.com/71)
 
 </details>
 <details>
@@ -259,6 +265,11 @@
 - [item 72. 표준 예외를 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/10/item-72)
 - [item 73. 추상화 수준에 맞는 예외를 던지라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/10/item-73)
 - [item 74. 메서드가 던지는 모든 예외를 문서화하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/10/item-74)
+- [item 75. 예외의 상세 메시지에 실패 관련 정보를 담으라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/10/item-75)
+- [item 76. 가능한 한 실패 원자적으로 만들라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/10/item-76)
+- [item 77. 예외를 무시하지 말라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/10/item-77)
+- [item 78. 공유 중인 가변 데이터는 동기화해 사용하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/11/item-78)
+- [item 79. 과도한 동기화는 피하라](https://mellona-log.gitbook.io/log/programming-lanuage/java/effective-java/11/item-79)
 
 </details>
 <details>
@@ -281,6 +292,8 @@
 - [item 51~52](https://thespeace.notion.site/8_1-1458580a9dad805d8effefc58118e331)
 - [item 53~56](https://thespeace.notion.site/8_2-1498580a9dad80f5aa66d6cd5a88f336)
 - [item 69~74](https://thespeace.notion.site/10_1-1538580a9dad802da4d0e8d7ab292ab9)
+- [item 75~77](https://thespeace.notion.site/10_2-1578580a9dad8054953cc19d8d0272ed)
+- [item 78~79](https://thespeace.notion.site/11_1-1578580a9dad800eb92ecd04c39c4568)
     
 </details>
 
@@ -309,8 +322,8 @@
 
 ## 🥮 출석부
 
-|           | 김민지 | 조연주 | 유승민 | 이예빈 | 유기훈 | 이시향 | 김진우 | 이금주 | 서성환 |
-| --------- | ---- | ---- | ----- | ---- | ----  | ---- | ---- | ---- | ---- |
+|          | 김민지 | 조연주 | 유승민 | 이예빈 | 유기훈 | 이시향 | 김진우 | 이금주 | 서성환 |
+| -------- | ----  | ---- | ----- | ---- | ----  | ---- | ---- | ---- | ---- |
 | 1주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |  🎟️  |  ✅  |  ✅  |
 | 2주차     |   ✅  |  ✅   |  ✅   |  ✅  |  ✅  |   ✅ |  ✅  |  ✅  |  ✅  |
 | 3주차     |   ✅  |  🎟️   |  ✅   |  ✅  |  ✅  |   ✅ |  ✅  |  ✅  |  ✅  |
@@ -323,7 +336,7 @@
 | 10주차    |   ✅  |  ✅   |  🎟️   |  ✅  |  ✅  |   ✅ |  ✅  |  ✅  |  ❌  |
 | 11주차    |   ✅  |  🎟️   |  🎟️   |  ✅  |  🎟️  |   🎟️ |  ❌  |  ✅  |  ✅  |
 | 12주차    |   ❌  |  ❌   |  ❌   |  ✅  |  🎟️  |   ✅ |  ✅  |  🎟️  |  ❌  |
-| 13주차    |        |        |        |        |        |        |        |
+| 13주차    |   ✅  |  ✅   |  ✅   |  ❌  |  ✅  |   ❌ |  ✅  |  ✅  |  ❌  |
 | 14주차    |        |        |        |        |        |        |        |
-| 보증금 현황 | 40,000| 40,000| 40,000| 40,000|60,000|60,000|40,000|60,000|20,000|
+| 보증금 현황 | 40,000| 40,000| 40,000| 20,000|60,000|40,000|40,000|60,000|   0   |
 | 패스권     |  1개 |  0개  |  0개 |  1개   |  0개  |   0개  |  0개 |  1개  | 0개 |
